@@ -1,4 +1,4 @@
- This script will transfer a file from a localhost to aremote host so that it can be printed.
+ This script will transfer a file from a localhost to a remote host so that it can be printed.
 
  This script was written in response to depreciated phyton modules used in HPLIP preventing new cups installations to work.
 
